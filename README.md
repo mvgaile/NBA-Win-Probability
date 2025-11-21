@@ -18,6 +18,14 @@ This project implements a complete NBA Win Probability (WP) pipeline using play-
 
 The system outputs smooth, calibrated, high-quality win probability graphs similar to ESPN, Inpredictable, and professional analytics platforms.
 
+## Quickstart (Single Game)
+
+1. Clone the repo
+2. Create the Conda env
+3. Open `wp_graph_public.ipynb`
+4. Set `GAME_ID` and moneylines
+5. Run all cells to generate the WP chart
+
 ---
 
 ## 🚀 Features
